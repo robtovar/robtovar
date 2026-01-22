@@ -7,5 +7,4 @@
 ## About me
 Experienced on React, Python, and modern front-end and back-end technologies. Also, as Teacher Assitant I contributed to student growth through mentoring and hands-on projects, fostering the learning and application of technical skills in real-world environments. 
 
-We can connect here: &nbsp; <a href="https://www.linkedin.com/in/robert-tovar-0b8371132" target="_blank"><img src="img/LinkedIn_logo_initials.png" height="20 px" width="20 px"></a>
 
